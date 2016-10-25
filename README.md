@@ -1,5 +1,4 @@
 # TwittMap-Haikuo-Xucheng
-http://homework5.dzjpbcvnfd.us-west-2.elasticbeanstalk.com/googlemap/pretty
 
 ##	UI for our application
 ![Main UI](http://img.blog.csdn.net/20161025083341588)
